@@ -12,3 +12,6 @@ go build -o generator main.go
 
 ## Details
 https://luarocks.org/security-incident-march-2019
+
+## Presentation
+https://speakerdeck.com/akamajoris/luarocks-vulnerabilities
